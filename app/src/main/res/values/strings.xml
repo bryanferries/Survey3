@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Survey_Addition</string>
+    <string name="add_stringresource">Add</string>
+    <string name="count_stringresource">Count From Model</string>
+    <string name="results_stringresource">Results</string>
+    <string name="clear_stringresource">Clear</string>
+    <string name="return_stringresource">Return</string>
+    <string name="count_from_main_stringresource">Count From Main</string>
+</resources>
